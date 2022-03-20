@@ -1,0 +1,21 @@
+.icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap : 1.5rem;
+}
+
+input, textarea {
+    width: 60%;
+    padding:1.5rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid var(--color-primary-variant);
+    resize: none;
+    color: var(--color-white);
+}
