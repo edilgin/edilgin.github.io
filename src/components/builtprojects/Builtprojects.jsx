@@ -18,7 +18,7 @@ const Builtprojects = () => {
               <h1>DeepForSpeed</h1>
               <p>I built a Self-driving car using a CNN algorithm inside Need For Speed</p>
               <p>Nvidia's research paper on self driving cars inspired me on this project</p>
-              <p>Project has 130+ likes on github</p>
+              <p>Project has 150+ likes on github</p>
               <br></br>
               </a>
             </div>
