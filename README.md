@@ -1,3 +1,8 @@
+# About Project
+Built by Ahmet Fehim Örnek
+School No: 1191602071
+Computer Science Dept.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
