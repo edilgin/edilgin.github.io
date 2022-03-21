@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5592d1d5.css",
+    "main.css": "/static/css/main.eda38239.css",
     "main.js": "/static/js/main.04d09145.js",
     "static/media/deepforspeed.png": "/static/media/deepforspeed.cee8f35a74a9213747ea.png",
     "static/media/mewithcat2.jpg": "/static/media/mewithcat2.ffca83db4234249df726.jpg",
@@ -8,11 +8,11 @@
     "static/media/covid19app.png": "/static/media/covid19app.5e3de92cbf25c16fa3a7.png",
     "static/media/deeptitanic.png": "/static/media/deeptitanic.cb36f17391521ef0675e.png",
     "index.html": "/index.html",
-    "main.5592d1d5.css.map": "/static/css/main.5592d1d5.css.map",
+    "main.eda38239.css.map": "/static/css/main.eda38239.css.map",
     "main.04d09145.js.map": "/static/js/main.04d09145.js.map"
   },
   "entrypoints": [
-    "static/css/main.5592d1d5.css",
+    "static/css/main.eda38239.css",
     "static/js/main.04d09145.js"
   ]
 }
