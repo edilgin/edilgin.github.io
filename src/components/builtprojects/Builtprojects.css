@@ -37,3 +37,30 @@ div h1 {
 .links:hover{
     color: var(--color-white);
 }
+
+.carouselItem{
+    color: var(--color-white);
+}
+
+@media screen and (max-width: 1024px) {
+    #builtprojects{
+        margin-top: 0rem;
+        height: 80vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #builtprojects{
+        margin-top: 40rem;
+        height: 90vh;
+    }
+    .item_container{
+        width: 100%;
+        font-size: 2rem;
+    }
+    .item_container h1{
+        font-size: 2.5rem;
+    }
+
+}
+

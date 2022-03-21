@@ -83,7 +83,8 @@ p{
         gap:0;
     }
     .about_me{
-        width: 50%;
+        width: var(--container-width-md);
+        height: 25vh;
         margin:2rem auto 4rem;
     }
     .about_content p {
@@ -95,17 +96,19 @@ p{
 @media screen and (max-width:600px){
 
     .about_me{
-        width: 65%;
-        margin:0 auto 3rem;
+        width: 100%;
+        margin: 1rem 0rem 6rem 0rem;
     }
+
     .about_cards{
         grid-template-columns: 1fr 1fr;
-        gap:1rem;
+        gap:2rem;
     }
+    
     .about_content{
         text-align: center;
     }
     .about_content p {
-        margin: 1.5rem 0rem;
+        margin-top: 1.5rem;
     }
 }

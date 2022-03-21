@@ -19,3 +19,19 @@ input, textarea {
     resize: none;
     color: var(--color-white);
 }
+
+@media screen and (max-width:1024px) {
+    input{
+        width: 100%;
+        height: 6vh;
+        font-size: 1.5rem;
+    }
+    textarea{
+        width: 100%;
+        height: 25vh;
+        font-size: 1.5rem;
+    }
+    .btn{
+        font-size: 1.5rem;
+    }
+}
