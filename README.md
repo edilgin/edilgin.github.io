@@ -1,6 +1,8 @@
 # About Project
 Built by Ahmet Fehim Örnek
+
 School No: 1191602071
+
 Computer Science Dept.
 
 # Getting Started with Create React App
